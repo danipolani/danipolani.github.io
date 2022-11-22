@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage on Dani Poloni</title>
+    <title>Home on Dani Poloni</title>
     <link>https://danipoloni.github.io/en/</link>
-    <description>Recent content in Homepage on Dani Poloni</description>
+    <description>Recent content in Home on Dani Poloni</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://danipoloni.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Nov 2022 01:47:48 +0400</lastBuildDate><atom:link href="https://danipoloni.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Man Who Sold the World (in Russian)</title>
+      <link>https://danipoloni.github.io/en/poems/man-who-sold-the-world/</link>
+      <pubDate>Wed, 23 Nov 2022 01:47:48 +0400</pubDate>
+      
+      <guid>https://danipoloni.github.io/en/poems/man-who-sold-the-world/</guid>
+      <description>Russian translation of David Bowie&amp;rsquo;s song</description>
+      
+    </item>
+    
   </channel>
 </rss>

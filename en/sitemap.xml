@@ -4,6 +4,91 @@
   
     
       <url>
+            <loc>https://danipoloni.github.io/en/</loc>
+            <lastmod>2022-11-23T01:47:48+04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="ru"
+              href="https://danipoloni.github.io/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://danipoloni.github.io/en/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipoloni.github.io/en/poems/man-who-sold-the-world/</loc>
+            <lastmod>2022-11-23T01:47:48+04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="ru"
+              href="https://danipoloni.github.io/poems/man-who-sold-the-world/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://danipoloni.github.io/en/poems/man-who-sold-the-world/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipoloni.github.io/en/poems/</loc>
+            <lastmod>2022-11-23T01:47:48+04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="ru"
+              href="https://danipoloni.github.io/poems/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://danipoloni.github.io/en/poems/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipoloni.github.io/en/tags/</loc>
+            <lastmod>2022-11-23T01:47:48+04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="ru"
+              href="https://danipoloni.github.io/tags/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://danipoloni.github.io/en/tags/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipoloni.github.io/en/tags/translations/</loc>
+            <lastmod>2022-11-23T01:47:48+04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://danipoloni.github.io/en/authors/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -30,18 +115,18 @@
   
     
       <url>
-            <loc>https://danipoloni.github.io/en/</loc>
+            <loc>https://danipoloni.github.io/en/books/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <xhtml:link
               rel="alternate"
               hreflang="ru"
-              href="https://danipoloni.github.io/"
+              href="https://danipoloni.github.io/books/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://danipoloni.github.io/en/"
+              href="https://danipoloni.github.io/en/books/"
               />
           </url>
     
@@ -60,24 +145,6 @@
               rel="alternate"
               hreflang="en"
               href="https://danipoloni.github.io/en/series/"
-              />
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://danipoloni.github.io/en/tags/</loc>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-            <xhtml:link
-              rel="alternate"
-              hreflang="ru"
-              href="https://danipoloni.github.io/tags/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://danipoloni.github.io/en/tags/"
               />
           </url>
     
