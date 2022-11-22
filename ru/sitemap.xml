@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>https://danipoloni.github.io/</loc>
+            <lastmod>2022-11-22T23:07:01+04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://danipoloni.github.io/en/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="ru"
+              href="https://danipoloni.github.io/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipoloni.github.io/poems/</loc>
+            <lastmod>2022-11-22T23:07:01+04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipoloni.github.io/poems/old-world-has-ended/</loc>
+            <lastmod>2022-11-22T23:07:01+04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipoloni.github.io/poems/cloud-in-a-jar/</loc>
+            <lastmod>2022-11-22T01:07:30+04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipoloni.github.io/poems/hi-have-a-nice-day/</loc>
+            <lastmod>2022-11-22T01:06:28+04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipoloni.github.io/poems/i-dont-have-words/</loc>
+            <lastmod>2022-11-22T01:04:36+04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipoloni.github.io/poems/birthday/</loc>
+            <lastmod>2022-11-22T01:04:15+04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipoloni.github.io/poems/stone/</loc>
+            <lastmod>2022-11-22T01:02:19+04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipoloni.github.io/poems/how-come/</loc>
+            <lastmod>2022-11-22T01:02:10+04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipoloni.github.io/poems/banality-of-evil/</loc>
+            <lastmod>2022-11-20T01:48:23+04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipoloni.github.io/poems/firebook/</loc>
+            <lastmod>2022-11-20T01:44:59+04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipoloni.github.io/poems/be-silent/</loc>
+            <lastmod>2022-11-20T01:22:34+04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipoloni.github.io/archives/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipoloni.github.io/categories/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://danipoloni.github.io/en/categories/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="ru"
+              href="https://danipoloni.github.io/categories/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipoloni.github.io/search/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipoloni.github.io/series/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://danipoloni.github.io/en/series/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="ru"
+              href="https://danipoloni.github.io/series/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipoloni.github.io/tags/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://danipoloni.github.io/en/tags/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="ru"
+              href="https://danipoloni.github.io/tags/"
+              />
+          </url>
+    
+  
+</urlset>
