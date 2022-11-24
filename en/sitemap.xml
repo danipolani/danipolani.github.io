@@ -97,6 +97,24 @@
   
     
       <url>
+            <loc>https://danipoloni.github.io/en/books/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="ru"
+              href="https://danipoloni.github.io/books/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://danipoloni.github.io/en/books/"
+              />
+          </url>
+    
+  
+    
+      <url>
             <loc>https://danipoloni.github.io/en/categories/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -115,18 +133,18 @@
   
     
       <url>
-            <loc>https://danipoloni.github.io/en/books/</loc>
+            <loc>https://danipoloni.github.io/en/languages/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <xhtml:link
               rel="alternate"
               hreflang="ru"
-              href="https://danipoloni.github.io/books/"
+              href="https://danipoloni.github.io/languages/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://danipoloni.github.io/en/books/"
+              href="https://danipoloni.github.io/en/languages/"
               />
           </url>
     

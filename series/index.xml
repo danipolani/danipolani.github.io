@@ -5,6 +5,16 @@
     <link>https://danipoloni.github.io/series/</link>
     <description>Recent content in Series on Дани Полони</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language><atom:link href="https://danipoloni.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru</language>
+    <lastBuildDate>Fri, 25 Nov 2022 00:21:20 +0400</lastBuildDate><atom:link href="https://danipoloni.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lemu Teloku</title>
+      <link>https://danipoloni.github.io/series/lemu-teloku/</link>
+      <pubDate>Fri, 25 Nov 2022 00:21:20 +0400</pubDate>
+      
+      <guid>https://danipoloni.github.io/series/lemu-teloku/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
