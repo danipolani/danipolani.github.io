@@ -5,7 +5,7 @@
     
       <url>
             <loc>https://danipoloni.github.io/series/lemu-teloku/</loc>
-            <lastmod>2022-11-25T00:21:20+04:00</lastmod>
+            <lastmod>2022-11-25T23:11:33+04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -14,7 +14,7 @@
     
       <url>
             <loc>https://danipoloni.github.io/series/</loc>
-            <lastmod>2022-11-25T00:21:20+04:00</lastmod>
+            <lastmod>2022-11-25T23:11:33+04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <xhtml:link
@@ -33,7 +33,7 @@
     
       <url>
             <loc>https://danipoloni.github.io/tags/</loc>
-            <lastmod>2022-11-25T00:21:20+04:00</lastmod>
+            <lastmod>2022-11-25T23:11:33+04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <xhtml:link
@@ -52,7 +52,7 @@
     
       <url>
             <loc>https://danipoloni.github.io/tags/%D0%B1%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D1%82%D0%B2%D0%BE/</loc>
-            <lastmod>2022-11-25T00:21:20+04:00</lastmod>
+            <lastmod>2022-11-25T23:11:33+04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -61,7 +61,7 @@
     
       <url>
             <loc>https://danipoloni.github.io/</loc>
-            <lastmod>2022-11-25T00:21:20+04:00</lastmod>
+            <lastmod>2022-11-25T23:11:33+04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <xhtml:link
@@ -80,9 +80,46 @@
     
       <url>
             <loc>https://danipoloni.github.io/tags/%D0%BB%D0%B5%D0%BC%D1%83-%D1%82%D0%B5%D0%BB%D0%BE%D0%BA%D1%83/</loc>
-            <lastmod>2022-11-25T00:21:20+04:00</lastmod>
+            <lastmod>2022-11-25T23:11:33+04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipoloni.github.io/languages/lemu-teloku-vocabulary/</loc>
+            <lastmod>2022-11-25T23:11:33+04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipoloni.github.io/tags/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/</loc>
+            <lastmod>2022-11-25T23:11:33+04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipoloni.github.io/languages/</loc>
+            <lastmod>2022-11-25T23:11:33+04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://danipoloni.github.io/en/languages/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="ru"
+              href="https://danipoloni.github.io/languages/"
+              />
           </url>
     
   
@@ -110,25 +147,6 @@
             <lastmod>2022-11-25T00:21:20+04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://danipoloni.github.io/languages/</loc>
-            <lastmod>2022-11-25T00:21:20+04:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://danipoloni.github.io/en/languages/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="ru"
-              href="https://danipoloni.github.io/languages/"
-              />
           </url>
     
   
