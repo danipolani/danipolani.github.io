@@ -8,6 +8,16 @@
             <lastmod>2022-11-25T23:11:33+04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://danipoloni.github.io/en/series/lemu-teloku/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="ru"
+              href="https://danipoloni.github.io/series/lemu-teloku/"
+              />
           </url>
     
   
@@ -92,6 +102,16 @@
             <lastmod>2022-11-25T23:11:33+04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://danipoloni.github.io/en/languages/lemu-teloku-vocabulary/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="ru"
+              href="https://danipoloni.github.io/languages/lemu-teloku-vocabulary/"
+              />
           </url>
     
   
