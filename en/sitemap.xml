@@ -4,7 +4,7 @@
   
     
       <url>
-            <loc>https://danipoloni.github.io/en/tags/bliss/</loc>
+            <loc>https://danipolani.github.io/en/tags/bliss/</loc>
             <lastmod>2022-11-25T23:11:33+04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -13,130 +13,130 @@
   
     
       <url>
-            <loc>https://danipoloni.github.io/en/</loc>
-            <lastmod>2022-11-25T23:11:33+04:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-            <xhtml:link
-              rel="alternate"
-              hreflang="ru"
-              href="https://danipoloni.github.io/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://danipoloni.github.io/en/"
-              />
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://danipoloni.github.io/en/languages/</loc>
+            <loc>https://danipolani.github.io/en/</loc>
             <lastmod>2022-11-25T23:11:33+04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <xhtml:link
               rel="alternate"
               hreflang="ru"
-              href="https://danipoloni.github.io/languages/"
+              href="https://danipolani.github.io/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://danipoloni.github.io/en/languages/"
+              href="https://danipolani.github.io/en/"
               />
           </url>
     
   
     
       <url>
-            <loc>https://danipoloni.github.io/en/tags/lemu-teloku/</loc>
-            <lastmod>2022-11-25T23:11:33+04:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://danipoloni.github.io/en/series/lemu-teloku/</loc>
+            <loc>https://danipolani.github.io/en/languages/</loc>
             <lastmod>2022-11-25T23:11:33+04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <xhtml:link
               rel="alternate"
               hreflang="ru"
-              href="https://danipoloni.github.io/series/lemu-teloku/"
+              href="https://danipolani.github.io/languages/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://danipoloni.github.io/en/series/lemu-teloku/"
+              href="https://danipolani.github.io/en/languages/"
               />
           </url>
     
   
     
       <url>
-            <loc>https://danipoloni.github.io/en/languages/lemu-teloku-vocabulary/</loc>
+            <loc>https://danipolani.github.io/en/tags/lemu-teloku/</loc>
+            <lastmod>2022-11-25T23:11:33+04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipolani.github.io/en/series/lemu-teloku/</loc>
             <lastmod>2022-11-25T23:11:33+04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <xhtml:link
               rel="alternate"
               hreflang="ru"
-              href="https://danipoloni.github.io/languages/lemu-teloku-vocabulary/"
+              href="https://danipolani.github.io/series/lemu-teloku/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://danipoloni.github.io/en/languages/lemu-teloku-vocabulary/"
+              href="https://danipolani.github.io/en/series/lemu-teloku/"
               />
           </url>
     
   
     
       <url>
-            <loc>https://danipoloni.github.io/en/series/</loc>
+            <loc>https://danipolani.github.io/en/languages/lemu-teloku-vocabulary/</loc>
             <lastmod>2022-11-25T23:11:33+04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <xhtml:link
               rel="alternate"
               hreflang="ru"
-              href="https://danipoloni.github.io/series/"
+              href="https://danipolani.github.io/languages/lemu-teloku-vocabulary/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://danipoloni.github.io/en/series/"
+              href="https://danipolani.github.io/en/languages/lemu-teloku-vocabulary/"
               />
           </url>
     
   
     
       <url>
-            <loc>https://danipoloni.github.io/en/tags/</loc>
+            <loc>https://danipolani.github.io/en/series/</loc>
             <lastmod>2022-11-25T23:11:33+04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <xhtml:link
               rel="alternate"
               hreflang="ru"
-              href="https://danipoloni.github.io/tags/"
+              href="https://danipolani.github.io/series/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://danipoloni.github.io/en/tags/"
+              href="https://danipolani.github.io/en/series/"
               />
           </url>
     
   
     
       <url>
-            <loc>https://danipoloni.github.io/en/tags/vocabulary/</loc>
+            <loc>https://danipolani.github.io/en/tags/</loc>
+            <lastmod>2022-11-25T23:11:33+04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="ru"
+              href="https://danipolani.github.io/tags/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://danipolani.github.io/en/tags/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipolani.github.io/en/tags/vocabulary/</loc>
             <lastmod>2022-11-25T23:11:33+04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -145,45 +145,45 @@
   
     
       <url>
-            <loc>https://danipoloni.github.io/en/poems/man-who-sold-the-world/</loc>
+            <loc>https://danipolani.github.io/en/poems/man-who-sold-the-world/</loc>
             <lastmod>2022-11-23T01:47:48+04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <xhtml:link
               rel="alternate"
               hreflang="ru"
-              href="https://danipoloni.github.io/poems/man-who-sold-the-world/"
+              href="https://danipolani.github.io/poems/man-who-sold-the-world/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://danipoloni.github.io/en/poems/man-who-sold-the-world/"
+              href="https://danipolani.github.io/en/poems/man-who-sold-the-world/"
               />
           </url>
     
   
     
       <url>
-            <loc>https://danipoloni.github.io/en/poems/</loc>
+            <loc>https://danipolani.github.io/en/poems/</loc>
             <lastmod>2022-11-23T01:47:48+04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <xhtml:link
               rel="alternate"
               hreflang="ru"
-              href="https://danipoloni.github.io/poems/"
+              href="https://danipolani.github.io/poems/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://danipoloni.github.io/en/poems/"
+              href="https://danipolani.github.io/en/poems/"
               />
           </url>
     
   
     
       <url>
-            <loc>https://danipoloni.github.io/en/tags/translations/</loc>
+            <loc>https://danipolani.github.io/en/tags/translations/</loc>
             <lastmod>2022-11-23T01:47:48+04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -192,7 +192,7 @@
   
     
       <url>
-            <loc>https://danipoloni.github.io/en/authors/</loc>
+            <loc>https://danipolani.github.io/en/authors/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -200,36 +200,54 @@
   
     
       <url>
-            <loc>https://danipoloni.github.io/en/books/</loc>
+            <loc>https://danipolani.github.io/en/blog/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <xhtml:link
               rel="alternate"
               hreflang="ru"
-              href="https://danipoloni.github.io/books/"
+              href="https://danipolani.github.io/blog/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://danipoloni.github.io/en/books/"
+              href="https://danipolani.github.io/en/blog/"
               />
           </url>
     
   
     
       <url>
-            <loc>https://danipoloni.github.io/en/categories/</loc>
+            <loc>https://danipolani.github.io/en/books/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <xhtml:link
               rel="alternate"
               hreflang="ru"
-              href="https://danipoloni.github.io/categories/"
+              href="https://danipolani.github.io/books/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://danipoloni.github.io/en/categories/"
+              href="https://danipolani.github.io/en/books/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://danipolani.github.io/en/categories/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="ru"
+              href="https://danipolani.github.io/categories/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://danipolani.github.io/en/categories/"
               />
           </url>
     

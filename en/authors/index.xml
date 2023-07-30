@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Dani Poloni</title>
-    <link>https://danipoloni.github.io/en/authors/</link>
-    <description>Recent content in Authors on Dani Poloni</description>
+    <title>Authors on Dani Polani</title>
+    <link>https://danipolani.github.io/en/authors/</link>
+    <description>Recent content in Authors on Dani Polani</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://danipoloni.github.io/en/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://danipolani.github.io/en/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

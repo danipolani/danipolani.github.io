@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://danipoloni.github.io/sitemap.xml
+Sitemap: https://danipolani.github.io/sitemap.xml
